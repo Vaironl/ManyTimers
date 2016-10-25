@@ -1,0 +1,19 @@
+Sex ed app
+=================
+Home page with tabs leading to certain aspects of sex ed
+
+TAB 1: What is sex?
+	Basics of sex
+
+TAB 2: Protection
+	Using protection
+	Why Protection
+	Pregnancy
+	Diseases
+
+TAB 3: Misconceptions
+
+TAb 4: Statistics
+
+TAG HACK WITH AWS, HEALTH, ETC if using them
+
